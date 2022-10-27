@@ -75,3 +75,4 @@ contract lalocoin_ico {
 
 ### Step 1
 
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%201.png)
