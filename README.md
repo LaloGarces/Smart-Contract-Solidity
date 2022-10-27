@@ -100,4 +100,20 @@ In the section *Paste your private Key* , use the Private Key provided by Ganach
 
 ![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%206.png)
 
-### Step 
+### Step 6 
+Sign Transaction and Deploy Contract.
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%207.png)
+
+### Step 7
+In Ganche, you can see the Geneis Block for the creation of the contract. 
+
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%2010.png)
+
+### Step 8
+Now, to start buying a Lalo Coin (you can rename it), within MyEtherWallet you need to select *Interact with Contract* and paste: 
+
+- Contract Address: The address provided by your account within Ganache. 
+- ABI: Your interface developed with Remix. Copy and paste it. 
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%2012.png)
+
+### Step 9
