@@ -9,3 +9,14 @@
 - Remix - Ethereum IDE: https://remix.ethereum.org/
 - Ganache: https://trufflesuite.com/ganache/
 - MyEtherWallet.com: https://www.myetherwallet.com/
+
+In the case of My Ether Wallet, you can use the ZIP file uploaded in the repository. 
+
+### Follow the next steps: 
+
+1. Use the code provided 
+
+ ```
+///Lalo Coin & Smart Contract Demo
+
+ ```
