@@ -83,7 +83,7 @@ On MyEtherWallet, select Add Custom Network/Node as in the next image:
 ### Step 2
 In the section *Set Uo Your Custom Node*, please name your node as you wish and then use the URL and Port provided by Ganache. Then select ETH due, we're going to use that Crypto. 
 
-![This is an Image]([https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%201.png](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%202.png))
+![This is an Image (https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%202.png)
 
 
 
