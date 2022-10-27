@@ -81,9 +81,11 @@ On MyEtherWallet, select Add Custom Network/Node as in the next image:
 ![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%201.png)
 
 ### Step 2
-In the section *Set Uo Your Custom Node*, please name your node as you wish and then use the URL and Port provided by Ganache. Then select ETH due, we're going to use that Crypto. 
+In the section *Set Up Your Custom Node*, please name your node as you wish and then use the URL and Port provided by Ganache. Then select ETH due, we're going to use that Crypto. 
 
 ![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%202.png)
 
+### Step 3 
+In MyEtherWallet, select *Deploy Contract* due we're going to seal the Smart Contract with the Genesis Block.
 
-
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%203.png)
