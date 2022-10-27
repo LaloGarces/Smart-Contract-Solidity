@@ -117,3 +117,18 @@ Now, to start buying a Lalo Coin (you can rename it), within MyEtherWallet you n
 ![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%2012.png)
 
 ### Step 9
+Then, within MyEtherWallet, select buy_lalocoins, copy your address from Ganache and, in the usd_invested select the amount of Lalo Coins you want to buy.
+
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%2014.png)
+
+### Step 10
+Sign the transaction
+
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%2015.png)
+
+#Step 11
+You can see in Ganache, your second Block mined!
+
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%2016.png)
+
+Thank you! 😊
