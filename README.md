@@ -12,9 +12,9 @@
 
 In the case of My Ether Wallet, you can use the ZIP file uploaded in the repository. 
 
-### Follow the next steps: 
+### Use the next code: 
 
-1. Use the code provided 
+You can personalize your own "Crypto" replacing Lalo Coins for the name of the coin you want. Remember, this is only a demo so the Cryptocurrencies created in this Smart Contract has value of $0
 
  ```
 // SPDX-License-Identifier: UNLICENSED
