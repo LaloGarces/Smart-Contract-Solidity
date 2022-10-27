@@ -93,4 +93,4 @@ In MyEtherWallet, select *Deploy Contract* due we're going to seal the Smart Con
 ### Step 4
 Within *Deploy Contract* you need to copy and paste the Byte Code from your Smart Contract. The Byte Code can be found within Remix: 
 
-![This is an Image] (https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%205.png)
+![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%205.png)
