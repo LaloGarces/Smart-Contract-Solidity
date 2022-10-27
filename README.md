@@ -74,5 +74,8 @@ contract lalocoin_ico {
  ```
 
 ### Step 1
+Once dowloaded Ganche and opened MyEtherWallet, please paste the code in Remix - Ethereum IDE.
+
+On MyEtherWallet, select Add Custom Network/Node as in the next image: 
 
 ![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%201.png)
