@@ -89,3 +89,8 @@ In the section *Set Up Your Custom Node*, please name your node as you wish and 
 In MyEtherWallet, select *Deploy Contract* due we're going to seal the Smart Contract with the Genesis Block.
 
 ![This is an Image](https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%203.png)
+
+### Step 4
+Within *Deploy Contract* you need to copy and paste the Byte Code from your Smart Contract. The Byte Code can be found within Remix: 
+
+![This is an Image] (https://github.com/LaloGarces/Smart-Contract-Solidity/blob/main/Screenshots/Step%205.png)
