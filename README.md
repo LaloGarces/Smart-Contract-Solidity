@@ -1,2 +1,3 @@
-# Smart-Contract-Solidity
-This is a demo to demostraste how Blockchain works exchanging Crypto
+# Smart Contract Demo using Solidity ⟠ Ξ
+
+ss
